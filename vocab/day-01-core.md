@@ -1,4 +1,7 @@
+<<<<<<< ours
 # Day 01 Core Vocabulary (MAIN FINAL)
+# Day 01 Core Vocabulary (CONFLICT VERSON)
+>>>>> theirs
 
 ## Word: ambiguous
 - **Meaning**: open to more than one interpretation
