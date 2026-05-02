@@ -1,4 +1,4 @@
-# Day 01 Core Vocabulary (MAIN VERSION)
+# Day 01 Core Vocabulary (CONFLICT VERSION)
 
 ## Word: ambiguous
 - **Meaning**: open to more than one interpretation
