@@ -11,3 +11,7 @@
 - **Collocation**: inevitable consequence / inevitable result
 ## Word: procrastinate
 - **Meaning**: delay or postpone action
+## Word: resilient
+- **Meaning**: able to recover quickly from difficulties
+- **Example**: She is a resilient leader.
+- **Collocation**: resilient economy / resilient personality
