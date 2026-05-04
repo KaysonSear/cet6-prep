@@ -20,3 +20,4 @@
 - **Collocation**: resilient economy / resilient personality
 ## Word: stash-test
 ## Word: main-after-branch
+## Word: another-main-word
